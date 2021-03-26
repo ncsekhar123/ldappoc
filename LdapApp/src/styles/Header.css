@@ -1,0 +1,9 @@
+.header{
+    background-color: rgb(249, 250, 246);
+    padding: 10px;
+    box-shadow: 1px 5px 10px rgb(211, 211, 216);
+}
+
+.link{
+    float: right;
+}

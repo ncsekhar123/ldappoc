@@ -1,0 +1,23 @@
+.Content{
+    position: relative;
+    width: 95%;
+    height: 100%;
+    left: 20px;
+    top: 20px;
+    background-color: rgb(255, 255, 255);
+    padding: 15px;
+    box-shadow: 1px 5px 10px rgb(211, 211, 216);
+}
+
+.eye{
+    float: right;
+}
+
+.plus{
+    float: right;
+}
+
+.Column{
+    padding: 5px;
+    border: 2px dashed gray;
+}

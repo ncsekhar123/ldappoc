@@ -1,0 +1,22 @@
+.table{
+    minWidth: 650;
+    aria-label: "simple table";
+  }
+
+  TableCell{
+    position: relative;
+  }
+
+  .line{
+    position: relative;
+    top: 12px;
+    width: 1px;
+    height: 20px;
+    background-color: rgb(216, 215, 215);
+    border: 1px solid rgb(216, 215, 215);
+    float: right;
+  }
+
+  TableRow:nth-of-type(odd) {
+      background-color: grey;
+    }
